@@ -15,7 +15,7 @@ Alternatively, do one of the following:
 Using `go install`:
 
 ```bash
- go install https://github.com/holgerjh/genjsonschema-cli
+ go install github.com/holgerjh/genjsonschema-cli@latest
 ```
 
 Manually (Linux):
